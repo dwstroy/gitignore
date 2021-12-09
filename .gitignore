@@ -1,0 +1,87 @@
+# Compiled jource #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packagea #
+############
+*.7z
+*.dng
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and datebases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotling-V100
+.Trashes
+
+# Gpeg #
+########
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.psd
+*.svg
+
+
+# PhpShtorm #
+#############
+.idea
+.idea/*
+
+# GIT #
+#############
+*.gitignore
+
+# bitrix # 
+#############
+/bitrix/backup 
+/bitrix/cache 
+/bitrix/crontab 
+/bitrix/managed_cache 
+/bitrix/managed_flags 
+/bitrix/modules/*.log 
+/bitrix/php_interface/crontab 
+/bitrix/php_interface/dbconn.php 
+/bitrix/stack_cache 
+/logs 
+/upload 
+/vendor/
+/vendor_js/
+/node_modules/
+/bin/
+/bower_components/
+/1c_manual/
+/.htaccess 
+/urlrewrite.php 
+yandex_*.html
+google*.html
+sitemap*.xml
+composer.phar
+restore.php
+/*.log 
+/*.sql 
+/*.txt 
+/*.xml 
+/*.dt
+*.swp
+*.swo
+*.DS_Store
